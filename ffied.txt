@@ -1,0 +1,7 @@
+list of languages that can intgrate nguvu:
+1.c++
+2.assembly(actualy is it compiling to assembly)
+3.dlang
+4.python
+5.javascript
+6.rust
